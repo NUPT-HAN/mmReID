@@ -12,6 +12,7 @@ The data files were been named with A_B_C_D.png, so that:
 Please refer to the paper for specific details. https://doi.org/10.1109/JIOT.2025.3554076
 
 # cite
+```
 @ARTICLE{10937945,
   author={Han, Chong and Chen, Siyu and Sheng, Biyun and Guo, Jian and Sun, Lijuan},
   journal={IEEE Internet of Things Journal}, 
@@ -22,3 +23,4 @@ Please refer to the paper for specific details. https://doi.org/10.1109/JIOT.202
   pages={24057-24070}
   doi={10.1109/JIOT.2025.3554076}
 }
+```
